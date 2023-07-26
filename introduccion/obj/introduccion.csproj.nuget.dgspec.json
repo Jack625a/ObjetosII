@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj": {}
+    "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj": {
+    "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj",
+        "projectUniqueName": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj",
         "projectName": "introduccion",
-        "projectPath": "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj",
+        "projectPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj",
         "packagesPath": "C:\\Users\\KEVIN ARROYO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\obj\\",
+        "outputPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEVIN ARROYO\\AppData\\Roaming\\NuGet\\NuGet.Config",

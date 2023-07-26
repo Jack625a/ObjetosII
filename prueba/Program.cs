@@ -27,7 +27,7 @@ Console.WriteLine(encender);
 //Operadores Aritmeticos
 //Suma, Resta, Multiplicacion, Division, Modulo
 int num1=45;
-int num2=30;
+int num2=60;
 int suma=num1+num2;
 int resta=num1-num2;
 int multiplicacion=num1*num2;
@@ -51,3 +51,55 @@ Console.WriteLine(num1<=num2); //False
 Console.WriteLine(num1==num2); //False
 Console.WriteLine(num1!=num2); //True
 
+//Condicionales en c#
+//If: Estructura de control si se cumple una condicion y es verdadero, mostrar una linea de codigo
+//else: Caso contrario mostrar otra linea de codigo
+//Ejercicio 1 - Condicionales Simples
+if (num1>=num2){
+    Console.WriteLine("La variable 1 es el mayor");
+}
+else{
+    Console.WriteLine("La variable 2 es el mayor");
+}
+//Ejercicio 2 - Condicionales Compuestas
+//if -- 
+int opcion=1;
+if (opcion==1){
+    Console.WriteLine("Selecion Opcion 1");
+}
+else if (opcion==2){
+    Console.WriteLine("Selecion Opcion 2");
+}
+else if(opcion==3){
+    Console.WriteLine("Seleccion Opcion 3");
+}
+else if(opcion==4){
+    Console.WriteLine("Seleccion Opcion 4");
+}
+else {
+    Console.WriteLine("Error");
+}
+
+//Entradas de Datos
+//Console.ReadLine();
+//Ejercicio 3. Solicitar ingresar nombre completo
+//Console.ReadLine("Ingrese su Nombre Completo");
+//Console.ReadLine("Ingrese su edad");
+
+//int num5=45;
+//string num6="12";
+//Console.WriteLine(num5*num6);
+Console.WriteLine("Ingrese su edad:");
+//Convertir la cadena de caracter en tipo de datos numerico
+int edadd=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese su Nombre:");
+string nombree=Console.ReadLine();
+
+Console.WriteLine("Bienvenido "+nombree);
+
+//Ejercicio de Clase 1.
+//Realizar una calculadora simple con un menu de opciones
+int opcionElegir=Convert.ToInt32(Console.ReadLine());
+
+int operador1=Convert.ToInt32(Console.ReadLine());
+int operador2=Convert.ToInt32(Console.ReadLine());
