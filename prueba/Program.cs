@@ -99,7 +99,62 @@ Console.WriteLine("Bienvenido "+nombree);
 
 //Ejercicio de Clase 1.
 //Realizar una calculadora simple con un menu de opciones
-int opcionElegir=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese la operacion que desea realizar. ");
+Console.WriteLine("1. Sumar");
+Console.WriteLine("2. Restar");
+Console.WriteLine("3. Multiplicar");
+Console.WriteLine("4. Dividir");
 
+int opcionElegir=Convert.ToInt32(Console.ReadLine());
+//Numeros
+Console.WriteLine("Ingrese un numero para realizar la operacion: ");
 int operador1=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese un numero para realizar la operacion: ");
 int operador2=Convert.ToInt32(Console.ReadLine());
+if (opcionElegir==1){
+    int sumaa=operador1+operador2;
+    Console.WriteLine("La suma de "+operador1+"+"+operador2+"="+sumaa);
+}
+else if(opcionElegir==2){
+    int restaa=operador1-operador2;
+    Console.WriteLine("La resta de "+operador1+"-"+operador2+"="+restaa);    
+}
+else if(opcionElegir==3){
+    int multiplicacionn=operador1*operador2;
+    Console.WriteLine("La multiplicacion de "+operador1+"x"+operador2+"="+multiplicacionn);
+}
+else if(opcionElegir==4){
+    int divisionn=operador1/operador2;
+    Console.WriteLine("La division de "+operador1+"/"+operador2+"="+divisionn);
+}
+else{
+    Console.WriteLine("Error operacion no valida");
+}
+
+//Bucles
+//Bucles repetitivos 
+//Ciclo While
+//Ejercicio Ciclo While - Mostrar los numeros del 1 al 10
+int numeros=1;
+while(numeros<=10){
+    Console.WriteLine("°"+numeros);
+    numeros++;
+}
+//Do While - Mostrar los numeros del 1 al n
+Console.WriteLine("Bucle do while");
+int numeros2;
+int inicio=1;
+    Console.WriteLine("Ingrese el numero final para mostrar en pantalla");
+    numeros2=Convert.ToInt32(Console.ReadLine());
+do{
+    Console.WriteLine(inicio);
+    inicio++;
+
+}while (inicio<=numero2);
+
+//Bucles iterativos
+//Ciclo For
+Console.WriteLine("Bucle Iterativo");
+for(int i=1;i<=100;i++){
+    Console.WriteLine("°"+i);
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\prueba.csproj": {}
+    "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\EstructuraBasica\\EstructuraBasica.csproj": {}
   },
   "projects": {
-    "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\prueba.csproj": {
+    "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\EstructuraBasica\\EstructuraBasica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\prueba.csproj",
-        "projectName": "prueba",
-        "projectPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\prueba.csproj",
+        "projectUniqueName": "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\EstructuraBasica\\EstructuraBasica.csproj",
+        "projectName": "EstructuraBasica",
+        "projectPath": "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\EstructuraBasica\\EstructuraBasica.csproj",
         "packagesPath": "C:\\Users\\KEVIN ARROYO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\obj\\",
+        "outputPath": "C:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\EstructuraBasica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEVIN ARROYO\\AppData\\Roaming\\NuGet\\NuGet.Config",
