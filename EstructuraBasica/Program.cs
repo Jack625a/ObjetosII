@@ -2,32 +2,39 @@
 //1. Nombre de clase
 //2. Atributos o Parametros de la clase
 //3. Metodos o Acciones
-//4. Obejetos
+//4. Objetos
+
+//Ejercicio 1- Crear un programa que solicite el nombre y la edad para realizar la verificacion si es mayor de edad
+
 
 using System;
-
-namespace MiPrimerPrograma
+class Program
 {
-    class Program
+    //Metodo principales, atributos o parametros que tendra la clase
+    static void Main()
     {
-        //Metodo principales, atributos o parametros que tendra la clase
-        static void Main()
-        {
-            //Declaracion e inicializacion de las variables
-            int numero=8;
-            string nombre="Kevin Arroyo";
+        //Solicitar al usuario el ingreso de su nombre
+        Console.Write("Ingrese su nombre completo");
+        string nombre=Console.ReadLine();
 
-            //Mostrar en la consola
-            Console.WriteLine("Hola "+ nombre);
-
-            //Inicilializacion de los metodos o acciones
-            Saludar();
-
+        //Solicitar al usuario el ingreso de su edad
+        Console.WriteLine("Ingrese su edad");
+        int edad=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Hola bienvenido "+nombre+ " la edad registrada es "+edad);
+        //Verificar si es mayor de edad
+        if (edad>=18){
+            Console.Write(nombre+" es mayor de edad");
         }
-        //Definir los metodos o acciones
-        static void Saludar()
+        else
         {
-            console.write("Hola bienvenido");
+            Console.Write(nombre+ " no es mayor de edad");
         }
+
+        MostrarInformacion();
+    }
+    //Definir los metodos o acciones
+    static void MostrarInformacion()
+    {
+        Console.WriteLine("Hola bienvenido ");
     }
 }
