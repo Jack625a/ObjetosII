@@ -1,0 +1,15 @@
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.csproj.AssemblyReference.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.AssemblyInfoInputs.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.AssemblyInfo.cs
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\bin\Debug\net7.0\ArraysPares.exe
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\bin\Debug\net7.0\ArraysPares.deps.json
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\bin\Debug\net7.0\ArraysPares.runtimeconfig.json
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\bin\Debug\net7.0\ArraysPares.dll
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\bin\Debug\net7.0\ArraysPares.pdb
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.dll
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\refint\ArraysPares.dll
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.pdb
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ArraysPares.genruntimeconfig.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\ArraysPares\obj\Debug\net7.0\ref\ArraysPares.dll
