@@ -1,0 +1,15 @@
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\bin\Debug\net7.0\PromedioLista.exe
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\bin\Debug\net7.0\PromedioLista.deps.json
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\bin\Debug\net7.0\PromedioLista.runtimeconfig.json
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\bin\Debug\net7.0\PromedioLista.dll
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\bin\Debug\net7.0\PromedioLista.pdb
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.csproj.AssemblyReference.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.AssemblyInfoInputs.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.AssemblyInfo.cs
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.dll
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\refint\PromedioLista.dll
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.pdb
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\PromedioLista.genruntimeconfig.cache
+C:\Users\KEVIN ARROYO\Desktop\Objetos II\PromedioLista\obj\Debug\net7.0\ref\PromedioLista.dll
