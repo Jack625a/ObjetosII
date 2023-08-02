@@ -22,7 +22,7 @@ class Program
             numeros[i]=Convert.ToInt32(Console.ReadLine());
         }
         //4.Objeto de la clase
-        int producto=1;
+        int producto=0x1;
         for(int i=0;i<cantidad;i++)
         {
             producto=producto*numeros[i];
