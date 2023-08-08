@@ -1,0 +1,13 @@
+﻿@model List<Bog2.Models.Posts>
+   <h1>Blog</h1>
+@foreach (var posts in Model)
+
+{
+	<div class="container">
+		<img src="https://codigofacilito.com/photo_generales_store/29.jpg"/>
+		<br>
+		<h2>@posts.Title</h2>
+
+	</div>
+	
+}
