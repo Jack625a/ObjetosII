@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KEVIN ARROYO\\.nuget\\packages\\": {}
+    "C:\\Users\\catec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\prueba.csproj",
+      "projectUniqueName": "c:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\prueba\\prueba.csproj",
       "projectName": "prueba",
-      "projectPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\prueba.csproj",
-      "packagesPath": "C:\\Users\\KEVIN ARROYO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\prueba\\obj\\",
+      "projectPath": "c:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\prueba\\prueba.csproj",
+      "packagesPath": "C:\\Users\\catec\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\prueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KEVIN ARROYO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\catec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

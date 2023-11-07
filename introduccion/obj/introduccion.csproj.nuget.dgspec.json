@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj": {}
+    "C:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\introduccion\\introduccion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj": {
+    "C:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\introduccion\\introduccion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj",
+        "projectUniqueName": "C:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\introduccion\\introduccion.csproj",
         "projectName": "introduccion",
-        "projectPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\introduccion.csproj",
-        "packagesPath": "C:\\Users\\KEVIN ARROYO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\KEVIN ARROYO\\Desktop\\Objetos II\\introduccion\\obj\\",
+        "projectPath": "C:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\introduccion\\introduccion.csproj",
+        "packagesPath": "C:\\Users\\catec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\catec\\Desktop\\objetos II\\ObjetosII\\introduccion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KEVIN ARROYO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\catec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
